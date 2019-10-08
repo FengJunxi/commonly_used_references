@@ -32,16 +32,14 @@
   publisher = {APS},
 }
 
-@Article{ding2018improved,
-  author  = {Ding, Kai and Teng, Qizhi and Wang, Zhengyong and He, Xiaohai and Feng, Junxi},
-  title   = {Improved multipoint statistics method for reconstructing three-dimensional porous media from a two-dimensional image via porosity matching},
-  journal = {Phys. Rev. E},
-  year    = {2018},
-  volume  = {97},
-  number  = {6},
-  pages   = {063304},
-  groups  = {commonly used},
-  type    = {Journal Article},
+@article{wang2019ct,
+  title={CT-image of rock samples super resolution using 3D convolutional neural network},
+  author={Wang, Yukai and Teng, Qizhi and He, Xiaohai and Feng, Junxi and Zhang, Tingrong},
+  journal={Computers \& Geosciences},
+  volume={133},
+  pages={104314},
+  year={2019},
+  publisher={Elsevier}
 }
 
 
@@ -76,6 +74,26 @@
   pages   = {968-983},
   issn    = {0920-4105},
   type    = {Journal Article},
+}
+@Article{ding2018improved,
+  author  = {Ding, Kai and Teng, Qizhi and Wang, Zhengyong and He, Xiaohai and Feng, Junxi},
+  title   = {Improved multipoint statistics method for reconstructing three-dimensional porous media from a two-dimensional image via porosity matching},
+  journal = {Phys. Rev. E},
+  year    = {2018},
+  volume  = {97},
+  number  = {6},
+  pages   = {063304},
+  groups  = {commonly used},
+  type    = {Journal Article},
+}
+@article{li2017sparse,
+  title={Sparse representation-based volumetric super-resolution algorithm for 3D CT images of reservoir rocks},
+  author={Li, Zhengji and Teng, Qizhi and He, Xiaohai and Yue, Guihua and Wang, Zhengyong},
+  journal={Journal of Applied Geophysics},
+  volume={144},
+  pages={69--77},
+  year={2017},
+  publisher={Elsevier}
 }
 
 @Article{gao2015reconstruction,
