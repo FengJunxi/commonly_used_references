@@ -1,0 +1,31 @@
+@Article{zuo2018accelerating,
+  author    = {Zuo, Chen and Pan, Zhibin and Liang, Hao},
+  title     = {Accelerating simulation for the multiple-point statistics algorithm using vector quantization},
+  journal   = {Phys. Rev. E},
+  year      = {2018},
+  volume    = {97},
+  number    = {3},
+  pages     = {033302},
+  publisher = {APS},
+}
+
+@Article{zuo2019correlation,
+  author    = {Zuo, Chen and Pan, Zhibin and Gao, Zhaoqi and Gao, Jinghuai},
+  title     = {Correlation-driven direct sampling method for geostatistical simulation and training image evaluation},
+  journal   = {Phys. Rev. E},
+  year      = {2019},
+  volume    = {99},
+  number    = {5},
+  pages     = {053310},
+  publisher = {APS},
+}
+
+@Article{gao2019reconstruction,
+  author    = {Gao, MingLiang and Li, XiangQun and Xu, YongSheng and Wu, Tao and Wang, JianHua},
+  title     = {Reconstruction of three-dimensional anisotropic media based on analysis of morphological completeness},
+  journal   = {Comp. Mater. Sci.},
+  year      = {2019},
+  volume    = {167},
+  pages     = {123--135},
+  publisher = {Elsevier},
+}

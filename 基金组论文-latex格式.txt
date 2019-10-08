@@ -1,0 +1,166 @@
+
+@Article{feng2018reconstruction,
+  author  = {Feng, Junxi and Teng, Qizhi and He, Xiaohai and Qing, Linbo and Li, Yang},
+  title   = {Reconstruction of three-dimensional heterogeneous media from a single two-dimensional section via co-occurrence correlation function},
+  journal = {Comp. Mater. Sci.},
+  year    = {2018},
+  volume  = {144},
+  pages   = {181-192},
+  issn    = {0927-0256},
+  type    = {Journal Article},
+}
+
+@Article{feng2018accelerating,
+  author  = {Feng, Junxi and Teng, Qizhi and He, Xiaohai and Wu, Xiaohong},
+  title   = {Accelerating multi-point statistics reconstruction method for porous media via deep learning},
+  journal = {Acta Mater.},
+  year    = {2018},
+  volume  = {159},
+  pages   = {296-308},
+  issn    = {1359-6454},
+  type    = {Journal Article},
+}
+
+@Article{feng2019reconstruction,
+  author    = {Feng, Junxi and He, Xiaohai and Teng, Qizhi and Ren, Chao and Chen, Honggang and Li, Yang},
+  title     = {Reconstruction of porous media from extremely limited information using conditional generative adversarial networks},
+  journal   = {Physical Review E},
+  year      = {2019},
+  volume    = {100},
+  number    = {3},
+  pages     = {033308},
+  publisher = {APS},
+}
+
+@Article{ding2018improved,
+  author  = {Ding, Kai and Teng, Qizhi and Wang, Zhengyong and He, Xiaohai and Feng, Junxi},
+  title   = {Improved multipoint statistics method for reconstructing three-dimensional porous media from a two-dimensional image via porosity matching},
+  journal = {Phys. Rev. E},
+  year    = {2018},
+  volume  = {97},
+  number  = {6},
+  pages   = {063304},
+  groups  = {commonly used},
+  type    = {Journal Article},
+}
+
+
+@Article{li2019dictionary,
+  author    = {Li, Yang and Teng, Qizhi and He, Xiaohai and Ren, Chao and Chen, Honggang and Feng, Junxi},
+  title     = {Dictionary optimization and constraint neighbor embedding-based dictionary mapping for superdimension reconstruction of porous media},
+  journal   = {Phys. Rev. E},
+  year      = {2019},
+  volume    = {99},
+  number    = {6},
+  pages     = {062134},
+  publisher = {APS},
+}
+
+@Article{li2018markov,
+  author  = {Li, Yang and He, Xiaohai and Teng, Qizhi and Feng, Junxi and Wu, Xiaohong},
+  title   = {Markov prior-based block-matching algorithm for superdimension reconstruction of porous media},
+  journal = {Phys. Rev. E},
+  year    = {2018},
+  volume  = {97},
+  number  = {4},
+  pages   = {043306},
+  type    = {Journal Article},
+}
+
+@Article{li2019super,
+  author  = {Li, Yang and Teng, Qizhi and He, Xiaohai and Feng, Junxi and Xiong, Shuhua},
+  title   = {Super-dimension-based three-dimensional nonstationary porous medium reconstruction from single two-dimensional image},
+  journal = {J. Petrol. Sci. Eng.},
+  year    = {2019},
+  volume  = {174},
+  pages   = {968-983},
+  issn    = {0920-4105},
+  type    = {Journal Article},
+}
+
+@Article{gao2015reconstruction,
+  author  = {Gao, MingLiang and He, XiaoHai and Teng, QiZhi and Zuo, Chen and Chen, DongDong},
+  title   = {Reconstruction of three-dimensional porous media from a single two-dimensional image using three-step sampling},
+  journal = {Phys. Rev. E},
+  year    = {2015},
+  volume  = {91},
+  number  = {1},
+  pages   = {013308},
+  type    = {Journal Article},
+}
+
+@Article{gao2017evaluating,
+  author  = {Gao, Mingliang and Teng, Qizhi and He, Xiaohai and Feng, Junxi and Han, Xue},
+  title   = {Evaluating the morphological completeness of a training image},
+  journal = {Phys. Rev. E},
+  year    = {2017},
+  volume  = {95},
+  number  = {5},
+  pages   = {053306},
+  type    = {Journal Article},
+}
+
+@Article{gao2016pattern,
+  author  = {Gao, Mingliang and Teng, Qizhi and He, Xiaohai and Zuo, Chen and Li, ZhengJi},
+  title   = {Pattern density function for reconstruction of three-dimensional porous media from a single two-dimensional image},
+  journal = {Phys. Rev. E},
+  year    = {2016},
+  volume  = {93},
+  number  = {1},
+  pages   = {012140},
+  type    = {Journal Article},
+}
+
+@article{chen2014reconstruction,
+  title={Reconstruction of multiphase microstructure based on statistical descriptors},
+  author={Chen, Dongdong and He, Xiaohai and Teng, Qizhi and Xu, Zhi and Li, Zhengji},
+  journal={Physica A: Statistical Mechanics and its Applications},
+  volume={415},
+  pages={240--250},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@Article{chen2014stable,
+  author  = {Chen, DongDong and Teng, Qizhi and He, Xiaohai and Xu, Zhi and Li, Zhengji},
+  title   = {Stable-phase method for hierarchical annealing in the reconstruction of porous media images},
+  journal = {Phys. Rev. E},
+  year    = {2014},
+  volume  = {89},
+  number  = {1},
+  pages   = {013305},
+  type    = {Journal Article},
+}
+
+@article{xu2013reconstruction,
+  title={A reconstruction method for three-dimensional pore space using multiple-point geology statistic based on statistical pattern recognition and microstructure characterization},
+  author={Xu, Zhi and Teng, Qizhi and He, Xiaohai and Li, Zhengji},
+  journal={International Journal for Numerical and Analytical Methods in Geomechanics},
+  volume={37},
+  number={1},
+  pages={97--110},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+
+@article{xu2012multiple,
+  title={Multiple-point statistics method based on array structure for 3D reconstruction of Fontainebleau sandstone},
+  author={Xu, Zhi and Teng, Qizhi and He, Xiaohai and Yang, Xiaomin and Li, Zhengji},
+  journal={Journal of Petroleum Science and Engineering},
+  volume={100},
+  pages={71--80},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@Article{tang2009pixel,
+  author  = {TANG, Tang and TENG, Qizhi and HE, Xiaohai and Luo, D},
+  title   = {A pixel selection rule based on the number of different‐phase neighbours for the simulated annealing reconstruction of sandstone microstructure},
+  journal = {J. Microsc.},
+  year    = {2009},
+  volume  = {234},
+  number  = {3},
+  pages   = {262-268},
+  issn    = {0022-2720},
+  type    = {Journal Article},
+}
