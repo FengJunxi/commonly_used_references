@@ -1,1 +1,1 @@
-This repository is used to share the commonly used references in the porous medium 3D reconstruction
+This repository is used to share the commonly used references in the field of porous medium 3D reconstruction
